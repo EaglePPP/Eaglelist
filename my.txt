@@ -1,0 +1,31 @@
+3dmgame.com##.Content_R
+3dmgame.com##.dj_warp_e.mg_bt30
+bilibili.com##.adblock-tips
+bilibili.com##.bpx-player-sending-bar
+bilibili.com##.danmaku-wrap
+bilibili.com##.default-btn.new-charge-btn.btn-transition.charge-btn-loaded
+bilibili.com##.right-entry > .right-entry-item
+bilibili.com##.tag-area.clearfix
+bilibili.com##.v-popover-wrap.left-loc-entry
+bilibili.com##.video-page-game-card-small
+bilibili.com##.video-page-special-card-small
+bilibili.com##a[class*="ad-floor"]
+bilibili.com##div[class*="pop-live-small-mode"]
+bilibili.com#?#.left-entry > li> a:-abp-has(span:-abp-contains(/(游戏中心|会员购|赛事|漫画)/i))
+bilibili.com#?#.right-entry > .v-popover-wrap > a:-abp-has(span:-abp-contains(/(大会员|创作中心)/i))
+ebay-kleinanzeigen.de#?#.ad-listitem > article:-abp-has(a:-abp-contains(/(lenkrad|360|razer|xbox controller|wireless controller|xbox series s/x Controller|xbox series x/s Controller|xbox series s Controller|scuf|x/s Controller|s/x Controller|elite|reparatur|edition|tausche|kopfhörer|(microsoft|xbox).*(headset|Kopfhörer|seagate|kamera)|racing|kinect|limited|/i))
+ebay-kleinanzeigen.de#?#.ad-listitem > article:-abp-has(a:-abp-contains(/(mini|elite|essential)/i))
+gamersky.com##.yyimg
+microsoft.com##.c-uhfh-alert.f-information.epb-container.theme-light.b-white
+rewards.bing.com##div.info-column:nth-child(2)
+rewards.bing.com##mee-rewards-badge-summary.ng-scope
+rewards.bing.com#?#mee-card.ng-scope:-abp-has(.mee-icon-SkypeCircleCheck)
+rewards.bing.com#?#mee-card.ng-scope:-abp-has(h3:-abp-contains(Sammeln Sie mehr Rewards-Punkte auf dem Handy))
+rewards.bing.com#?#mee-card.ng-scope:-abp-has(h3:-abp-contains(Spenden mit Bing))
+twitch.tv#?#.ScTower-sc-1sjzzes-0.czzjEE.tw-tower > div:-abp-has(h3:-abp-contains(/(\p{sc=Cyrillic}|\p{sc=Thai}|\p{sc=Arabic})/u))
+twitch.tv#?#.ScTower-sc-1sjzzes-0.czzjEE.tw-tower > div:-abp-has(p:-abp-contains(/(fettaslayz|tsuwukii|Fusrobya|mL7support|AriaSaki|QueenE|sp00kybimbo|Lindaexoh|chickenwingcandy|denieess_x)/i))
+twitch.tv#?#.ScTower-sc-1sjzzes-0.czzjEE.tw-tower > div:-abp-has(span:-abp-contains(/(\p{sc=Cyrillic}|\p{sc=Thai}|\p{sc=Arabic})/u))
+twitch.tv#?#.ScTower-sc-1sjzzes-0.czzjEE.tw-tower > div:-abp-has(span:-abp-contains(/(taiwan|roman|bulgar|saudi|vtuber|Español|Polski|Norwegian|Português|Italiano|Français|Suomi|swedish|粤语|香港|廣東話|HongKong|HK|Arab|ไทย|thai|svenska|waifu|fr|Türkçe|Portugues|Nederland|playstation|xbox|anime|vietnam)/i))
+youtube.com#?#div#content.style-scope.ytd-rich-item-renderer:-abp-has(#video-title:-abp-contains(/(season\s*[1-5])/i))
+||.wikipedia.org##.wmde-banner-expand-button
+||.wikipedia.org##.wmde-banner-small
