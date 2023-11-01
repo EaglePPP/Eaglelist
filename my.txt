@@ -1,3 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 20231101
+! Title: 我的自定义拦截列表
+! Last modified: 01 Nov 2023 18:10 UTC
+!
+! 描述和其他信息
+!
+!-----------------------General advert blocking filters-----------------------!
 3dmgame.com##.Content_R
 3dmgame.com##.dj_warp_e.mg_bt30
 bilibili.com##.adblock-tips
