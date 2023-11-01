@@ -21,8 +21,8 @@ bilibili.com##a[class*="ad-floor"]
 bilibili.com##div[class*="pop-live-small-mode"]
 bilibili.com#?#.left-entry > li> a:-abp-has(span:-abp-contains(/(游戏中心|会员购|赛事|漫画)/i))
 bilibili.com#?#.right-entry > .v-popover-wrap > a:-abp-has(span:-abp-contains(/(大会员|创作中心)/i))
-ebay-kleinanzeigen.de#?#.ad-listitem > article:-abp-has(a:-abp-contains(/(lenkrad|360|razer|xbox controller|wireless controller|xbox series s/x Controller|xbox series x/s Controller|xbox series s Controller|scuf|x/s Controller|s/x Controller|elite|reparatur|edition|tausche|kopfhörer|(microsoft|xbox).*(headset|Kopfhörer|seagate|kamera)|racing|kinect|limited|/i))
-ebay-kleinanzeigen.de#?#.ad-listitem > article:-abp-has(a:-abp-contains(/(mini|elite|essential)/i))
+kleinanzeigen.de#?#.ad-listitem > article:-abp-has(a:-abp-contains(/(lenkrad|360|razer|xbox controller|wireless controller|xbox series s/x Controller|xbox series x/s Controller|xbox series s Controller|scuf|x/s Controller|s/x Controller|elite|reparatur|edition|tausche|kopfhörer|(microsoft|xbox).*(headset|Kopfhörer|seagate|kamera)|racing|kinect|limited|/i))
+kleinanzeigen.de#?#.ad-listitem > article:-abp-has(a:-abp-contains(/(mini|elite|essential)/i))
 gamersky.com##.yyimg
 microsoft.com##.c-uhfh-alert.f-information.epb-container.theme-light.b-white
 rewards.bing.com##div.info-column:nth-child(2)
